@@ -25,7 +25,7 @@
     "passport-google-oauth": "~0.1.5",
     "async": "~0.2.10",
     "underscore": "~1.6.0",
-    "view-helpers": "~0.1.4"
+    "view-helpers": "~0.2.0"
   },
   "devDependencies": {
     "supertest": "latest",
